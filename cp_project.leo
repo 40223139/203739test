@@ -272,8 +272,15 @@ def index(self, guess=None):
         第七組齒輪部分&lt;br /&gt;
         &lt;a href="mygeartest2"&gt;mygeartest2&lt;/a&gt;&lt;br /&gt;
         &lt;a href="mygeartest3"&gt;mygeartest3&lt;/a&gt;&lt;br /&gt;
+        mygear3為二齒之上下組合
         &lt;a href="mygeartest4"&gt;mygeartest4&lt;/a&gt;&lt;br /&gt;
+        mygear4為四齒之組合&lt;br /&gt;
         &lt;a href="mygeartest5"&gt;mygeartest5&lt;/a&gt;&lt;br /&gt;
+        mygear5由40223120(林家豪)&lt;br /&gt;
+                         40223137(黃伯學)&lt;br /&gt;
+                         40223138(黃道明)&lt;br /&gt;
+                         40223139(楊承翰)&lt;br /&gt;
+                         所協同建立而成&lt;br /&gt;
         &lt;a href="man"&gt;man(自動組立)&lt;/a&gt;&lt;br /&gt;
         &lt;a href="man2"&gt;man2(全組分工組立)&lt;/a&gt;&lt;br /&gt;
         &lt;/body&gt;
