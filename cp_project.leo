@@ -278,7 +278,6 @@ def index(self, guess=None):
         &lt;a href="mygeartest5"&gt;mygeartest5&lt;/a&gt;&lt;br /&gt;
         mygear5由40223120(林家豪)&lt;br /&gt;
                          40223137(黃伯學)&lt;br /&gt;
-                         40223138(黃道明)&lt;br /&gt;
                          40223139(楊承翰)&lt;br /&gt;
                          所協同建立而成&lt;br /&gt;
         &lt;a href="man"&gt;man(自動組立)&lt;/a&gt;&lt;br /&gt;

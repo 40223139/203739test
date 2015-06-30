@@ -92,7 +92,6 @@ class Hello(object):
             <a href="mygeartest5">mygeartest5</a><br />
             mygear5由40223120(林家豪)<br />
                              40223137(黃伯學)<br />
-                             40223138(黃道明)<br />
                              40223139(楊承翰)<br />
                              所協同建立而成<br />
             <a href="man">man(自動組立)</a><br />
