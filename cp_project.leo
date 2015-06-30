@@ -260,10 +260,11 @@ def index(self, guess=None):
         &lt;a href="man"&gt;man(自動組立)&lt;/a&gt;&lt;br /&gt;
         &lt;a href="man2"&gt;man2(全組分工組立)&lt;/a&gt;&lt;br /&gt;
         &lt;a href="gear1"&gt;1人齒輪嚙合&lt;/a&gt;&lt;br /&gt;
-        第一題上下齒輪
+        第一題上下齒輪&lt;br /&gt;
         &lt;a href="gear2"&gt;2人齒輪嚙合&lt;/a&gt;&lt;br /&gt;
         個人練習用&lt;br /&gt;
         &lt;a href="gear3"&gt;3人齒輪嚙合&lt;/a&gt;&lt;br /&gt;
+        三人協同&lt;br /&gt;
         40223120(林家豪)、40223137(黃柏學)、40223139(楊承翰)&lt;br /&gt;
         &lt;/body&gt;
         &lt;/html&gt;

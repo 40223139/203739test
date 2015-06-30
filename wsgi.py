@@ -88,10 +88,11 @@ class Hello(object):
             <a href="man">man(自動組立)</a><br />
             <a href="man2">man2(全組分工組立)</a><br />
             <a href="gear1">1人齒輪嚙合</a><br />
-            第一題上下齒輪
+            第一題上下齒輪<br />
             <a href="gear2">2人齒輪嚙合</a><br />
             個人練習用<br />
             <a href="gear3">3人齒輪嚙合</a><br />
+            三人協同<br />
             40223120(林家豪)、40223137(黃柏學)、40223139(楊承翰)<br />
             </body>
             </html>
